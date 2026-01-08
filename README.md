@@ -1,5 +1,3 @@
-# City-mobility-analytics-
-Real-time urban mobility analytics platform using SQL and PostgreSQL, modeling live transit and GPS data in a star-schema warehouse to power delay monitoring, congestion analysis, and operational KPIs for city transport systems.
 
 # 🚦 Real-Time City Mobility Analytics Platform
 
