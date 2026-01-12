@@ -31,10 +31,10 @@ City transport operators struggle to:
 - Indexed and timestamp-partition-friendly design
 
 ## Project Structure
-schema/          → OLTP and warehouse DDL  
-etl/             → ETL logic (SQL-based)  
-sql_queries/     → Analytics and monitoring queries  
-docs/            → Architecture notes  
+schema        → OLTP and warehouse DDL  
+etl           → ETL logic (SQL-based)  
+sql_queries   → Analytics and monitoring queries  
+docs          → Architecture notes  
 
 ## Example Business Questions Answered
 - Which routes are delayed during peak hours?
